@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Java, organized by problem.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -15,9 +16,14 @@ A collection of my LeetCode solutions in Java, organized by problem.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sagarshresti18/java_leetcode_solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
